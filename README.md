@@ -1,7 +1,7 @@
 <h1 align="center"> C# - Fundamentos Básicos</h1>
 
 <p align="center">
-Este projeto explora os fundamentos básicos da linguagem C#, abordando os seguintes aspectos:</p>br>
+Este projeto explora os fundamentos básicos da linguagem C#, abordando os seguintes aspectos:</p><br>
 
 - Entrada de dados pelo usuário para processamento e retorno de resultados no console.
 - Exibição de informações no console de maneira estruturada.
